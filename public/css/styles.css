@@ -1,7 +1,7 @@
 body {
     color: #333333;
     font-family: arial;
-    max-width: 650px;
+    max-width: 700px;
     margin: 0 auto;
     padding: 0 16px;
 
@@ -31,6 +31,11 @@ header a {
     color: #888888;
     margin-right: 16px;
     text-decoration: none;
+}
+
+a {
+    color: #888888;
+    text-decoration: line;
 }
 
 .portrait {
